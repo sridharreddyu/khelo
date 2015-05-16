@@ -10,6 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.i2i.khelo.model.SportsCategory;
 import com.i2i.khelo.service.SessionHandler;
 
+/**
+ * This service is takes care of administrator for sports category.
+ * @author sridh_000
+ *
+ */
 @RestController
 public class SportsAdminService {
 
